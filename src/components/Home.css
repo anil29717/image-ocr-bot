@@ -1,0 +1,14 @@
+.bot-logo{
+    background-image: url(../Images/bot-speak.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-box-shadow: 3px 0 24px 32px #dddddd;
+-moz-box-shadow: 3px 0 24px 32px #dddddd;
+box-shadow: 3px 0 24px 32px #0c073a;
+}
+
+.web-site{
+    background-image: url(../Images/bg-bot-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
